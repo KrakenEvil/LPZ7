@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">klicker</string>
+    <string name="btn">Поздороваться</string>
+    <string name="btn_count">Клик</string>
+</resources>
